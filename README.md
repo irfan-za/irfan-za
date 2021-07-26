@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Irfan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on frontend development
+- 👀 I’m interested in Web Development 
+- 💞️ I’m looking to collaborate on frontend development with Reactjs/ Nextjs
 - 📫 You can contact me by email fanzahran123@gmail.com
 
 <!---
