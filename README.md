@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Irfan
 - 👀 I’m interested in Web Development 
-- 💞️ I’m looking to collaborate on frontend development with Reactjs/ Nextjs
+- 💞️ I’m looking to collaborate on Frontend development with Reactjs
 - 📫 You can contact me by email fanzahran123@gmail.com
+- 💌 Portfolio : https://irfan-za.com
 
 <!---
 irfan-za/irfan-za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
