@@ -70,7 +70,7 @@
         <h3 align="center">VidoraAI</h3>
         <p align="center">
           <a href="https://vidoraai.com" target="_blank">
-            <img src="https://ajicfyapwuyotrfthhvu.supabase.co/storage/v1/object/public/project/1747396675884_project.png" width="100%" alt="VidoraAI"/>
+            <img src="https://irfan-za.com/_next/image?url=https%3A%2F%2Fajicfyapwuyotrfthhvu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fproject%2F1747396675884_project.png&w=1920&q=75" width="100%" alt="VidoraAI"/>
           </a>
           <p align="center">
             <a href="https://vidoraai.com" target="_blank">
