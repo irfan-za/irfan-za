@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Muhammad Irfan Zahran</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=500&height=70&lines=Frontend+Developer;Building+SaaS+Projects;React.js+%7C+Next.js+%7C+TypeScript;Always+Learn+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=500&height=70&lines=Frontend+Developer;Building+Useful+Projects;React.js+%7C+Vue.js+%7C+TypeScript;Always+Learn+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
