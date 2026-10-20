@@ -35,7 +35,7 @@
   <h3 align="center">jasawebsite.id</h3>
   <p align="center">
     <a href="https://jasawebsite.id/" target="_blank">
-      <img src="https://image.thum.io/get/width/1200/https://jasawebsite.id/" width="100%" alt="jasawebsite.id website preview"/>
+      <img src="https://ajicfyapwuyotrfthhvu.supabase.co/storage/v1/object/public/project/Screenshot%202026-10-20%20213049%20(1).png" width="100%" alt="jasawebsite.id website preview"/>
     </a>
     <p align="center">
       <a href="https://jasawebsite.id/" target="_blank">
@@ -48,7 +48,26 @@
     <p><strong>Website Development Agency</strong> <br> Helping Indonesian businesses and SMEs grow through premium, responsive, SEO-friendly websites. Building company profiles, landing pages, e-commerce stores, and custom business applications.</p>
   </p>
 </td>
+    </tr>
+    <tr>
       <td width="50%">
+        <h3 align="center">VidoraAI</h3>
+        <p align="center">
+          <a href="https://vidoraai.com" target="_blank">
+            <img src="https://irfan-za.com/_next/image?url=https%3A%2F%2Fajicfyapwuyotrfthhvu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fproject%2F1747396675884_project.png&w=1920&q=75" width="100%" alt="VidoraAI"/>
+          </a>
+          <p align="center">
+            <a href="https://vidoraai.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logo=&logoColor=white" alt="Live Demo"/>
+            </a>
+            <a href="https://irfan-za.com/projects/44" target="_blank">
+              <img src="https://img.shields.io/badge/Detail-181717?style=for-the-badge&logo=&logoColor=white" alt="Detail project"/>
+            </a>
+          </p>
+          <p><strong>Content Scheduler </strong> <br> An AI-powered SaaS that helps content creators produce content and share it across any social media with less effort.</p>
+        </p>
+      </td>
+       <td width="50%">
         <h3 align="center">MultiAI</h3>
         <p align="center">
           <a href="https://multiai.id/" target="_blank">
@@ -80,25 +99,6 @@
             </a>
           </p>
           <p><strong>Microsite Builder </strong> <br> Already used by 1000+ users. Powerful platform that enables users to create microsites for link management and digital product distribution. Ship your website only in a few minutes.</p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">VidoraAI</h3>
-        <p align="center">
-          <a href="https://vidoraai.com" target="_blank">
-            <img src="https://irfan-za.com/_next/image?url=https%3A%2F%2Fajicfyapwuyotrfthhvu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fproject%2F1747396675884_project.png&w=1920&q=75" width="100%" alt="VidoraAI"/>
-          </a>
-          <p align="center">
-            <a href="https://vidoraai.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logo=&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://irfan-za.com/projects/44" target="_blank">
-              <img src="https://img.shields.io/badge/Detail-181717?style=for-the-badge&logo=&logoColor=white" alt="Detail project"/>
-            </a>
-          </p>
-          <p><strong>Content Scheduler </strong> <br> An AI-powered SaaS that helps content creators produce content and share it across any social media with less effort.</p>
         </p>
       </td>
     </tr>
