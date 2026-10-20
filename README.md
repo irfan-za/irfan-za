@@ -48,6 +48,23 @@
     <p><strong>Website Development Agency</strong> <br> Helping Indonesian businesses and SMEs grow through premium, responsive, SEO-friendly websites. Building company profiles, landing pages, e-commerce stores, and custom business applications.</p>
   </p>
 </td>
+ <td width="50%">
+        <h3 align="center">Visits</h3>
+        <p align="center">
+          <a href="https://visits.id/" target="_blank">
+            <img src="https://ajicfyapwuyotrfthhvu.supabase.co/storage/v1/object/public/project/Screenshot%202025-01-15%20145038.png" width="100%" alt="Visits"/>
+          </a>
+          <p align="center">
+            <a href="https://visits.id/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logo=&logoColor=white" alt="Live Demo"/>
+            </a>
+            <a href="https://irfan-za.com/projects/22" target="_blank">
+              <img src="https://img.shields.io/badge/Detail-181717?style=for-the-badge&logo=&logoColor=white" alt="Detail project"/>
+            </a>
+          </p>
+          <p><strong>Microsite Builder </strong> <br> Already used by 1000+ users. Powerful platform that enables users to create microsites for link management and digital product distribution. Ship your website only in a few minutes.</p>
+        </p>
+      </td>
     </tr>
     <tr>
       <td width="50%">
@@ -82,23 +99,6 @@
             </a>
           </p>
           <p><strong>All in One - AI Chat app </strong> <br> 2000+ users already tried MultiAI. Powered by ChatGPT, Claude Sonnet, and DeepSeek AI models. Chat/Artifact Creation, Digital Ecommerce for buying source code project, subscription plan feature, etc.</p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Visits</h3>
-        <p align="center">
-          <a href="https://visits.id/" target="_blank">
-            <img src="https://ajicfyapwuyotrfthhvu.supabase.co/storage/v1/object/public/project/Screenshot%202025-01-15%20145038.png" width="100%" alt="Visits"/>
-          </a>
-          <p align="center">
-            <a href="https://visits.id/" target="_blank">
-              <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logo=&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://irfan-za.com/projects/22" target="_blank">
-              <img src="https://img.shields.io/badge/Detail-181717?style=for-the-badge&logo=&logoColor=white" alt="Detail project"/>
-            </a>
-          </p>
-          <p><strong>Microsite Builder </strong> <br> Already used by 1000+ users. Powerful platform that enables users to create microsites for link management and digital product distribution. Ship your website only in a few minutes.</p>
         </p>
       </td>
     </tr>
