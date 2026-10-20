@@ -30,6 +30,24 @@
 <div align="center">
   <table>
     <tr>
+      
+<td width="50%">
+  <h3 align="center">jasawebsite.id</h3>
+  <p align="center">
+    <a href="https://jasawebsite.id/" target="_blank">
+      <img src="https://image.thum.io/get/width/1200/https://jasawebsite.id/" width="100%" alt="jasawebsite.id website preview"/>
+    </a>
+    <p align="center">
+      <a href="https://jasawebsite.id/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://jasawebsite.id/projects" target="_blank">
+        <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logoColor=white" alt="View Projects"/>
+      </a>
+    </p>
+    <p><strong>Website Development Agency</strong> <br> Helping Indonesian businesses and SMEs grow through premium, responsive, SEO-friendly websites. Building company profiles, landing pages, e-commerce stores, and custom business applications.</p>
+  </p>
+</td>
       <td width="50%">
         <h3 align="center">MultiAI</h3>
         <p align="center">
@@ -81,23 +99,6 @@
             </a>
           </p>
           <p><strong>Content Scheduler </strong> <br> An AI-powered SaaS that helps content creators produce content and share it across any social media with less effort.</p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">TanyaPDF</h3>
-        <p align="center">
-          <a href="https://tanyapdf.id" target="_blank">
-            <img src="https://ajicfyapwuyotrfthhvu.supabase.co/storage/v1/object/public/project/1720259137558_project.png" width="100%" alt="TanyaPDF"/>
-          </a>
-          <p align="center">
-            <a href="https://tanyapdf.id" target="_blank">
-              <img src="https://img.shields.io/badge/Live_Demo-2E97CB?style=for-the-badge&logo=&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://irfan-za.com/projects/37" target="_blank">
-              <img src="https://img.shields.io/badge/Detail-181717?style=for-the-badge&logo=&logoColor=white" alt="Detail project"/>
-            </a>
-          </p>
-          <p><strong>AI Chat with PDF Document </strong> <br> Help users extract key insights from PDF documents in seconds. AI can answer any questions about PDF document.</p>
         </p>
       </td>
     </tr>
